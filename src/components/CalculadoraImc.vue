@@ -19,6 +19,7 @@
       <p>Seu IMC é: {{ resultado }}</p>
       <p>Sua categoria é: {{ categoria }}</p>
     </div>
+	<p>Branch testing</p>
   </div>
 </template>
 
